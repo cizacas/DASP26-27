@@ -1,7 +1,3 @@
-# Ignorar todos los PDF
-
-*.pdf
-**/*.pdf
 
 # ignorar los .zip
 *.zip
