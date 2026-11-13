@@ -106,13 +106,13 @@ Archivo: `Álvarez_González_Gabriel_DASP_Tarea01.pdf` (8 páginas, con portada 
 - Tecnologías de negocio (IT): ERP, CRM, HRIS, marketing digital, CX, análisis de datos y cloud.
 - Tecnologías de planta (OT): IoT industrial, robótica, SCADA e IA/análisis avanzado.
 - Añade que la selección depende del sector.
-- Menor detalle en planta que Alberi (no cita PLC ni visión artificial), pero cubre lo mínimo de la referencia.
+- Menor detalle (no cita PLC ni visión artificial), pero cubre lo mínimo de la referencia.
 
 **Conexión IT/OT y ventajas (2,5/2,5)**
 - Importancia: sinergia, mejor comunicación, visibilidad operativa con ejemplo de planta inteligente, ciberseguridad integrada y cambio organizativo.
 - Nueve ventajas de extremo a extremo: trazabilidad, mantenimiento predictivo, producción sincronizada con la demanda, costes, personalización, calidad y seguridad, eficiencia energética, agilidad y nuevos modelos de negocio.
 - Incluye una conclusión final.
-- La parte de conexión es más teórica y menos ejemplificada que la de Alberi, pero es suficiente.
+- La parte de conexión es más teórica y menos ejemplificada, pero es suficiente.
 
 ### Ortografía y redacción (-0,3)
 
@@ -300,7 +300,7 @@ Archivo: `hazas_cuevas_joseangel_DASP01_Tarea.pdf` (3 páginas, sin portada ni �
 
 **Tecnología digital y organización (1,5/2)**
 - Explica que automatiza tareas, mejora la comunicación y acelera decisiones.
-- Ejemplo concreto pero genérico y poco desarrollado (almacén logístico con inventario en tiempo real); no explica cómo cambia la estructura organizativa ni usa BK Systems. Mismo criterio aplicado a Lidia.
+- Ejemplo concreto pero genérico y poco desarrollado (almacén logístico con inventario en tiempo real); no explica cómo cambia la estructura organizativa ni usa BK Systems. 
 
 **Diferencias y similitudes IT/OT (0,5/1)**
 - Una sola frase de diferencia (información y datos frente a procesos físicos) y una de similitud (colaboración creciente).
