@@ -1,0 +1,194 @@
+// question: 0  name: Switch category to $course$/top/Por defecto en GM_FP_2023
+$CATEGORY: $course$/top/Por defecto en GM_FP_2023
+
+
+// question: 0  name: Switch category to $course$/top/Por defecto en GM_FP_2023/DASP01
+$CATEGORY: $course$/top/Por defecto en GM_FP_2023/DASP01
+
+
+// question: 2059658  name: 11
+::11::¿Cuál de las siguientes es una característica principal de los sistemas ERP?{
+	=Integrar funciones críticas de negocio en una única plataforma
+	~Gestionar exclusivamente la relación con los clientes
+	~Ser utilizado únicamente por grandes corporaciones
+	~Automatizar las campañas de marketing digital
+}
+
+
+// question: 2059659  name: 12
+::12::¿Qué tecnología está redefiniendo el sector financiero ofreciendo transacciones seguras y transparentes?{
+	~Big Data
+	=Blockchain
+	~Machine Learning
+	~Computación en la nube
+}
+
+
+// question: 2059660  name: 13
+::13::¿Cuál es el papel de la inteligencia artificial en el sector de servicios?{
+	~Reemplazar todas las interacciones humanas con clientes
+	=Permitir una comprensión profunda de las necesidades del cliente
+	~Reducir la importancia del análisis de datos
+	~Eliminar la necesidad de plataformas CRM
+}
+
+
+// question: 2059661  name: 14
+::14::¿Qué herramienta es esencial para la gestión de relaciones con los clientes?{
+	~ERP
+	=CRM
+	~LMS
+	~IaaS
+}
+
+
+// question: 2059662  name: 15
+::15::¿En qué sector es crítico el uso de sistemas de información hospitalaria (HIS)?{
+	=Salud
+	~Educación
+	~Manufactura
+	~Finanzas
+}
+
+
+// question: 2059663  name: 16
+::16::¿Qué ofrece la tecnología de realidad aumentada (AR) en el sector educativo?{
+	~Una plataforma de gestión de aprendizaje
+	=Experiencias de aprendizaje inmersivas
+	~Análisis de datos en tiempo real
+	~Gestión de relaciones con clientes
+}
+
+
+// question: 2059664  name: 17
+::17::¿Cuál de las siguientes opciones es una ventaja de la telemedicina?{
+	=Ampliar el acceso a la atención médica
+	~Limitar el uso de tecnología en medicina
+	~Reemplazar completamente las visitas al hospital
+	~Incrementar los costos de atención médica
+}
+
+
+// question: 2059665  name: 18
+::18::¿Qué papel juegan los dispositivos portátiles de seguimiento de la salud?{
+	~Solo para el entretenimiento
+	~Solo para seguimiento de la actividad física
+	=Permiten el monitoreo en tiempo real de los pacientes
+	~No son útiles para el seguimiento médico
+}
+
+
+// question: 2059666  name: 19
+::19::¿Cuál de las siguientes afirmaciones sobre la seguridad cibernética es verdadera?{
+	~Solo es aplicable en entornos IT complejos
+	~No es necesaria en pequeñas empresas
+	=Es fundamental para proteger datos y sistemas contra ciberataques
+	~Se enfoca únicamente en la recuperación de datos después de un ataque
+}
+
+
+// question: 2059667  name: 20
+::20::¿Qué beneficio principal ofrecen las plataformas de aprendizaje en línea?{
+	~Eliminan la necesidad de instructores
+	=Facilitan el acceso flexible a la educación
+	~Restringen el aprendizaje colaborativo
+	~Disminuyen la calidad de la educación
+}
+
+
+// question: 2059649  name: 1
+::1::La tecnología Blockchain garantiza transacciones seguras sin la necesidad de una autoridad central.{
+	=%100%V#
+}
+
+
+// question: 2059657  name: 10
+::10::La infraestructura como servicio (IaaS) elimina la necesidad de que las empresas inviertan en hardware físico.{
+	=%100%V#
+}
+
+
+// question: 2059668  name: 22
+::22::Los sistemas CRM pueden automatizar y personalizar el marketing digital.{
+	=%100%V#
+}
+
+
+// question: 2059669  name: 23
+::23::La infraestructura como Servicio (IaaS) permite a las empresas reducir costos operativos.{
+	=%100%V#
+}
+
+
+// question: 2059670  name: 24
+::24::Los contratos inteligentes basados en blockchain no necesitan intermediarios para su ejecución.{
+	=%100%V#
+}
+
+
+// question: 2059671  name: 28
+::28::La telemedicina ha disminuido la importancia de las visitas presenciales al médico en ciertos contextos.{
+	=%100%V#
+}
+
+
+// question: 2059651  name: 3
+::3::La telemedicina reduce la necesidad de visitas presenciales al médico y permite el monitoreo remoto de pacientes.{
+	=%100%V#
+}
+
+
+// question: 2059642  name: 9
+::9::Las plataformas de aprendizaje en línea y los LMS están transformando la educación.{
+	=%100%V#
+}
+
+
+// question: 2059650  name: 2
+::2::Los sistemas ERP se utilizan exclusivamente en el sector manufacturero.{FALSE}
+
+
+// question: 2059643  name: 21
+::21::La automatización robótica es aplicable solo en el sector manufacturero.{FALSE}
+
+
+// question: 2059644  name: 25
+::25::La realidad virtual (VR) se utiliza exclusivamente para videojuegos.{FALSE}
+
+
+// question: 2059645  name: 26
+::26::El análisis de datos no juega un papel significativo en la personalización de servicios financieros.{FALSE}
+
+
+// question: 2059646  name: 27
+::27::Las herramientas de colaboración en línea son útiles solo para equipos remotos.{FALSE}
+
+
+// question: 2059647  name: 29
+::29::La tecnología de la información (IT) no es relevante para el sector educativo.{FALSE}
+
+
+// question: 2059648  name: 30
+::30::La seguridad cibernética es una prioridad solo para las grandes empresas.{FALSE}
+
+
+// question: 2059652  name: 4
+::4::Todos los sistemas CRM son igualmente efectivos en empresas grandes y pequeñas.{FALSE}
+
+
+// question: 2059653  name: 5
+::5::La realidad aumentada (AR) y la realidad virtual (VR) son lo mismo.{FALSE}
+
+
+// question: 2059654  name: 6
+::6::Los dispositivos portátiles de seguimiento de la salud solo recopilan datos físicos, no permiten la interacción con profesionales médicos.{FALSE}
+
+
+// question: 2059655  name: 7
+::7::La seguridad cibernética solo es necesaria en el sector financiero.{FALSE}
+
+
+// question: 2059656  name: 8
+::8::La inteligencia artificial (IA) no puede personalizar los planes de estudio en el sector educativo.{FALSE}
+
+

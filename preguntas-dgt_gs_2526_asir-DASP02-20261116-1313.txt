@@ -1,0 +1,148 @@
+// question: 0  name: Switch category to $course$/top/Por defecto en GM_FP_2023
+$CATEGORY: $course$/top/Por defecto en GM_FP_2023
+
+
+// question: 0  name: Switch category to $course$/top/Por defecto en GM_FP_2023/DASP02
+$CATEGORY: $course$/top/Por defecto en GM_FP_2023/DASP02
+
+
+// question: 2059689  name: 18
+::18::¿Qué THD ha revolucionado el análisis de datos en tiempo real?\:\:{
+	=Big Data
+	~Blockchain
+	~IoT
+	~Cloud Computing
+}
+
+
+// question: 2059690  name: 19
+::19::¿Qué aspecto de las THD contribuye a la sostenibilidad ambiental?\:\:{
+	=Optimización del uso de recursos
+	~Incremento del consumo de papel
+	~Aumento de viajes de negocios
+	~Uso intensivo de recursos naturales
+}
+
+
+// question: 2059691  name: 20
+::20::¿Cuál es un desafío común al implementar THD en empresas?\:\:{
+	=Brecha de habilidades digitales
+	~Demasiados recursos TI
+	~Falta de datos
+	~Acceso restringido a Internet
+}
+
+
+// question: 2059692  name: 21
+::21::¿Qué THD facilita la creación de nuevos modelos de negocio?\:\:{
+	=Blockchain
+	~IA
+	~IoT
+	~Todas las anteriores
+}
+
+
+// question: 2059672  name: 1
+::1::Las Tecnologías Habilitadoras Digitales (THD) son exclusivas del sector de TI.{FALSE}
+
+
+// question: 2059681  name: 10
+::10::La IA y el ML son lo mismo.{FALSE}
+
+
+// question: 2059682  name: 11
+::11::La IA puede utilizarse para mejorar la personalización de servicios al cliente.{TRUE}
+
+
+// question: 2059683  name: 12
+::12::Big Data solo se refiere a la cantidad de datos, sin importar su utilidad.{FALSE}
+
+
+// question: 2059684  name: 13
+::13::Big Data permite análisis predictivos en negocios.{TRUE}
+
+
+// question: 2059685  name: 14
+::14::El Cloud Computing obliga a las empresas a mantener una infraestructura de TI física grande.{FALSE}
+
+
+// question: 2059686  name: 15
+::15::Cloud Computing ofrece escalabilidad y flexibilidad en el acceso a recursos de TI.{TRUE}
+
+
+// question: 2059687  name: 16
+::16::La Ciberseguridad es menos importante en un entorno de Cloud Computing.{FALSE}
+
+
+// question: 2059688  name: 17
+::17::Las prácticas de Ciberseguridad deben intensificarse con la adopción de THD.{TRUE}
+
+
+// question: 2059673  name: 2
+::2::Las THD incluyen Blockchain, IA, IoT, Big Data y Cloud Computing.{TRUE}
+
+
+// question: 2059693  name: 22
+::22::¿La integración de IT y OT no mejora las operaciones empresariales?{FALSE}
+
+
+// question: 2059694  name: 23
+::23::La integración de IT y OT puede conducir a mejoras significativas en la eficiencia operativa.{TRUE}
+
+
+// question: 2059695  name: 24
+::24::La elaboración de informes no es necesaria para la gestión de proyectos de THD.{FALSE}
+
+
+// question: 2059696  name: 25
+::25::Los informes detallados ayudan en la toma de decisiones estratégicas al implementar THD.{TRUE}
+
+
+// question: 2059697  name: 26
+::26::La integración de IT y OT no es relevante para la seguridad cibernética en entornos industriales.{FALSE}
+
+
+// question: 2059698  name: 27
+::27::Una correcta integración de IT y OT puede resultar en una mejor toma de decisiones basada en datos en tiempo real.{TRUE}
+
+
+// question: 2059699  name: 28
+::28::La integración de IT y OT solo se aplica en el sector manufacturero y no tiene beneficios en otros sectores como la salud o la educación.{FALSE}
+
+
+// question: 2059700  name: 29
+::29::La elaboración de informes sobre proyectos de THD solo debe realizarse al finalizar el proyecto, no durante su desarrollo.{FALSE}
+
+
+// question: 2059674  name: 3
+::3::Las THD han reducido la importancia de la seguridad de la información.{FALSE}
+
+
+// question: 2059701  name: 30
+::30::Un informe efectivo sobre la implementación de THD debe incluir análisis de costos, beneficios obtenidos y recomendaciones para futuras acciones.{TRUE}
+
+
+// question: 2059675  name: 4
+::4::Las THD son fundamentales para la transformación digital de las empresas.{TRUE}
+
+
+// question: 2059676  name: 5
+::5::La transformación digital con THD solo beneficia a las grandes corporaciones.{FALSE}
+
+
+// question: 2059677  name: 6
+::6::Blockchain se utiliza únicamente para las transacciones de criptomonedas.{FALSE}
+
+
+// question: 2059678  name: 7
+::7::Blockchain puede aumentar la transparencia y seguridad en las cadenas de suministro.{TRUE}
+
+
+// question: 2059679  name: 8
+::8::El IoT no tiene aplicaciones en el sector agrícola.{FALSE}
+
+
+// question: 2059680  name: 9
+::9::El IoT conecta dispositivos físicos a Internet para recopilar y compartir datos.{TRUE}
+
+
