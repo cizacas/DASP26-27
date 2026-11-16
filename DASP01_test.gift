@@ -1,0 +1,211 @@
+$CATEGORY: DASP01/Fundamentos de digitalizacion
+
+::DASP01_01_Digitalizacion_definicion::¿Qué describe mejor la digitalización en una organización? {
+=Convertir información analógica en datos y usar tecnologías digitales para transformar y mejorar actividades y procesos
+~%-33.33333%Escanear documentos sin modificar ningún proceso ni uso de la información
+~%-33.33333%Sustituir todos los puestos de trabajo por sistemas automáticos
+~%-33.33333%Conectar únicamente ordenadores a Internet
+}
+
+::DASP01_02_Digitalizacion_empresarial::¿Cuál es un objetivo empresarial de la digitalización, además de convertir información a formato digital? {
+=Optimizar procesos, apoyar decisiones y posibilitar nuevos productos o servicios
+~%-33.33333%Eliminar la necesidad de coordinar departamentos
+~%-33.33333%Evitar que la empresa recopile o analice datos
+~%-33.33333%Mantener sin cambios los modelos de negocio
+}
+
+::DASP01_03_ARPANET::¿Qué hito se asocia a 1969 en la evolución digital descrita en la unidad? {
+=El nacimiento de ARPANET, precursora de Internet
+~%-33.33333%La invención del transistor
+~%-33.33333%La aparición de la World Wide Web
+~%-33.33333%La expansión de los teléfonos inteligentes
+}
+
+::DASP01_04_IoT::¿Qué caracteriza principalmente al Internet de las Cosas (IoT)? {
+=Objetos físicos con sensores y software que se conectan e intercambian datos
+~%-33.33333%Un registro contable distribuido e inmutable
+~%-33.33333%Una interfaz para superponer elementos digitales sobre el mundo real
+~%-33.33333%Un sistema dedicado exclusivamente a gestionar cursos
+}
+
+::DASP01_05_analitica_datos::¿Para qué se utiliza principalmente la analítica de datos en una empresa? {
+=Para examinar datos y extraer información que ayude a decidir y detectar tendencias
+~%-33.33333%Para convertir máquinas físicas en redes sociales
+~%-33.33333%Para impedir el almacenamiento de información
+~%-33.33333%Para sustituir cualquier sistema de control industrial
+}
+
+::DASP01_06_impacto_productivo::¿Qué efecto puede tener la digitalización en un proceso productivo? {
+=Reducir tiempos de inactividad y facilitar el mantenimiento predictivo
+~%-33.33333%Impedir la supervisión del rendimiento de las máquinas
+~%-33.33333%Aumentar necesariamente los errores de producción
+~%-33.33333%Eliminar la necesidad de adaptar la producción a la demanda
+}
+
+::DASP01_07_transformacion_digital::¿Por qué la transformación digital no se limita a adquirir tecnología? {
+=Porque también implica cambios en procesos, estrategia, cultura y competencias
+~%-33.33333%Porque solo consiste en sustituir el hardware cada año
+~%-33.33333%Porque afecta únicamente al departamento financiero
+~%-33.33333%Porque exige conservar intactos los modelos de negocio
+}
+
+::DASP01_08_estructura_flexible::¿Qué tipo de estructura puede favorecer la transformación digital? {
+=Una estructura más flexible, con equipos multidisciplinares y mayor agilidad
+~%-33.33333%Una jerarquía más rígida y decisiones concentradas en cada tarea
+~%-33.33333%Una organización sin colaboración entre departamentos
+~%-33.33333%Una estructura que prohíba la autonomía de los equipos
+}
+
+::DASP01_09_cultura_digital::¿Qué práctica ayuda a una empresa a adaptarse a la transformación digital? {
+=Promover una cultura de aprendizaje, adaptación y colaboración
+~%-33.33333%Evitar que el personal desarrolle competencias digitales
+~%-33.33333%Rechazar toda revisión de procesos existentes
+~%-33.33333%Separar completamente la tecnología de los objetivos empresariales
+}
+
+::DASP01_10_ventaja_automatizacion::¿Cuál es una ventaja habitual de automatizar tareas con soluciones digitales? {
+=Reducir errores y tiempos de operación, aumentando la productividad
+~%-33.33333%Eliminar automáticamente todos los riesgos de seguridad
+~%-33.33333%Garantizar que no haya costes de implantación
+~%-33.33333%Impedir que se recopilen datos operativos
+}
+
+::DASP01_11_desafio_seguridad::¿Qué desafío puede aumentar al crecer la actividad digital de una empresa? {
+=La exposición a ciberataques y brechas de seguridad
+~%-33.33333%La desaparición de la necesidad de proteger los datos
+~%-33.33333%La imposibilidad de ofrecer servicios digitales
+~%-33.33333%La reducción inevitable de la colaboración
+}
+
+::DASP01_12_IKEA_RA::¿Qué ejemplo de uso de realidad aumentada se menciona para IKEA? {
+=Permitir visualizar cómo quedarían muebles o productos en el hogar
+~%-33.33333%Usar robots para predecir la demanda en almacenes
+~%-33.33333%Registrar transacciones bancarias mediante blockchain
+~%-33.33333%Gestionar la producción mediante sensores SCADA
+}
+
+::DASP01_13_estrategia_digital::¿Qué combinación favorece que una empresa aproveche la digitalización de forma sostenible? {
+=Estrategia digital definida, cultura adaptable e inversión en tecnología y talento
+~%-33.33333%Compra de herramientas sin objetivos ni formación
+~%-33.33333%Automatización aislada y ausencia de evaluación
+~%-33.33333%Rechazo de la ciberseguridad para reducir costes
+}
+
+::DASP01_14_IT_definicion::¿Cuál es el foco principal de la Tecnología de la Información (IT)? {
+=Procesar, almacenar, proteger y transmitir información mediante sistemas y redes
+~%-33.33333%Controlar exclusivamente maquinaria y procesos físicos
+~%-33.33333%Gestionar únicamente la seguridad física de una planta
+~%-33.33333%Diseñar exclusivamente productos industriales
+}
+
+::DASP01_15_OT_definicion::¿Qué describe mejor la Tecnología de Operaciones (OT)? {
+=Hardware y software que supervisan o controlan dispositivos y procesos físicos
+~%-33.33333%Aplicaciones destinadas solo a gestionar relaciones con clientes
+~%-33.33333%Redes utilizadas únicamente para el correo electrónico
+~%-33.33333%Un sistema para almacenar documentos analógicos
+}
+
+::DASP01_16_SCADA::¿Cuál de estos sistemas es un ejemplo de OT? {
+=SCADA para supervisar y controlar procesos industriales
+~%-33.33333%CRM para analizar interacciones con clientes
+~%-33.33333%LMS para administrar cursos
+~%-33.33333%Una plataforma de correo electrónico corporativo
+}
+
+::DASP01_17_CRM::¿Qué función cumple principalmente un CRM? {
+=Centralizar y analizar las interacciones con clientes para gestionar la relación comercial
+~%-33.33333%Controlar sensores y actuadores de una línea de producción
+~%-33.33333%Proporcionar exclusivamente servidores virtuales
+~%-33.33333%Regular la continuidad eléctrica de una planta industrial
+}
+
+::DASP01_18_IT_OT_seguridad::¿Qué prioridad de seguridad suele distinguir a IT de OT? {
+=IT protege especialmente la información; OT prioriza continuidad y seguridad operacional
+~%-33.33333%IT prioriza la producción física y OT la confidencialidad de correos
+~%-33.33333%Ambos persiguen exactamente el mismo objetivo y tienen idénticos riesgos
+~%-33.33333%OT no necesita medidas de seguridad porque está aislada por definición
+}
+
+::DASP01_19_actualizaciones_OT::¿Por qué suelen planificarse con cautela las actualizaciones en OT? {
+=Porque un cambio puede afectar la estabilidad, la producción o la seguridad física
+~%-33.33333%Porque OT solo funciona con servicios de correo electrónico
+~%-33.33333%Porque las actualizaciones hacen imposible recopilar datos
+~%-33.33333%Porque OT debe adoptar siempre cada tecnología de inmediato
+}
+
+::DASP01_20_convergencia::¿Qué beneficio puede aportar la convergencia de IT y OT? {
+=Analizar datos operativos junto con sistemas de información para mejorar decisiones y operaciones
+~%-33.33333%Eliminar la necesidad de coordinación entre los equipos
+~%-33.33333%Convertir todas las funciones IT en tareas de control mecánico
+~%-33.33333%Evitar que los datos de producción se utilicen
+}
+
+::DASP01_21_impulsores_convergencia::¿Cuál es uno de los factores que impulsa la convergencia de IT y OT? {
+=La digitalización, la automatización y la extensión de IoT
+~%-33.33333%La obligación de mantener los sistemas completamente desconectados
+~%-33.33333%La reducción de la colaboración interdepartamental
+~%-33.33333%La sustitución de todos los procesos físicos por bases de datos
+}
+
+::DASP01_22_funcion_IT::¿Cuál de estas actividades corresponde principalmente a IT? {
+=Mantener infraestructura de comunicaciones y facilitar el flujo de información
+~%-33.33333%Ajustar directamente los parámetros físicos de una máquina mediante sensores
+~%-33.33333%Supervisar exclusivamente el desgaste de activos industriales
+~%-33.33333%Controlar el flujo de agua con actuadores en una planta
+}
+
+::DASP01_23_funcion_OT::¿Cuál es una responsabilidad propia de OT? {
+=Monitorizar y controlar procesos de fabricación mediante tecnología operacional
+~%-33.33333%Gestionar campañas de marketing por correo
+~%-33.33333%Administrar exclusivamente la nómina de la empresa
+~%-33.33333%Diseñar la estrategia de redes sociales
+}
+
+::DASP01_24_ERP::¿Qué aporta principalmente un ERP? {
+=Integra y automatiza procesos de varias áreas en una plataforma común
+~%-33.33333%Gestiona solo las interacciones comerciales con clientes
+~%-33.33333%Controla exclusivamente dispositivos de una planta mediante SCADA
+~%-33.33333%Superpone imágenes digitales en el entorno real
+}
+
+::DASP01_25_CIO::¿Cuál es la responsabilidad central del CIO? {
+=Dirigir la estrategia tecnológica y supervisar presupuesto, sistemas e infraestructura IT
+~%-33.33333%Controlar personalmente cada sensor de una línea de producción
+~%-33.33333%Gestionar únicamente las ventas de la empresa
+~%-33.33333%Diseñar exclusivamente los contenidos de formación
+}
+
+::DASP01_26_IaaS::¿Qué ofrece principalmente IaaS? {
+=Recursos virtualizados de computación, almacenamiento y redes bajo demanda
+~%-33.33333%Una plataforma de cursos con calificaciones y contenidos docentes
+~%-33.33333%Una herramienta exclusiva para las relaciones con clientes
+~%-33.33333%Un sistema de control físico para una cadena de montaje
+}
+
+::DASP01_27_PaaS::¿Qué caracteriza a PaaS? {
+=Ofrece un entorno gestionado para desarrollar, probar y desplegar aplicaciones
+~%-33.33333%Entrega únicamente equipos físicos para instalar en la oficina
+~%-33.33333%Se limita a registrar transacciones financieras en blockchain
+~%-33.33333%Reemplaza la necesidad de diseñar y mantener aplicaciones
+}
+
+::DASP01_28_pyme_tecnologia::¿Qué criterio puede ser especialmente relevante para una pyme al elegir soluciones IT? {
+=Escalabilidad y coste inicial, considerando servicios en la nube
+~%-33.33333%Elegir siempre la solución más compleja y personalizada
+~%-33.33333%Evitar la integración con sus procesos
+~%-33.33333%Comprar infraestructura sin valorar su crecimiento previsto
+}
+
+::DASP01_29_manufactura::¿Qué combinación tecnológica puede apoyar el mantenimiento predictivo en manufactura? {
+=Sensores IoT que monitorizan maquinaria y permiten analizar datos en tiempo real
+~%-33.33333%Un LMS que administra cursos y evaluaciones
+~%-33.33333%Una plataforma CX dedicada a gestionar consultas de clientes
+~%-33.33333%Realidad aumentada utilizada solo para visualizar muebles
+}
+
+::DASP01_30_sectores::¿Qué pareja entre sector y aplicación tecnológica es correcta? {
+=Educación: LMS para gestionar cursos, contenidos y evaluación
+~%-33.33333%Salud: SCADA como sistema principal de gestión del aprendizaje
+~%-33.33333%Finanzas: realidad aumentada para controlar maquinaria de producción
+~%-33.33333%Servicios: ERP utilizado exclusivamente para telemedicina
+}

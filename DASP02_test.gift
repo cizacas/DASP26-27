@@ -1,0 +1,211 @@
+$CATEGORY: DASP02/Tecnologias habilitadoras digitales
+
+::DASP02_01_THD::¿Qué caracteriza a las Tecnologías Habilitadoras Digitales (THD)? {
+=Habilitan cambios en procesos, productos, servicios y modelos de negocio
+~%-33.33333%Se limitan a sustituir documentos en papel por archivos escaneados
+~%-33.33333%Solo sirven para automatizar tareas administrativas repetitivas
+~%-33.33333%Son tecnologías aplicables únicamente a empresas informáticas
+}
+
+::DASP02_02_importancia_THD::¿Cómo contribuyen las THD a la transformación digital? {
+=Actúan como catalizadores de innovación, eficiencia y nuevas oportunidades
+~%-33.33333%Impiden que las organizaciones modifiquen sus modelos de negocio
+~%-33.33333%Sustituyen la necesidad de definir objetivos empresariales
+~%-33.33333%Se limitan a mejorar la infraestructura informática sin afectar otras áreas
+}
+
+::DASP02_03_estrategia::¿Qué enfoque favorece una implementación eficaz de THD? {
+=Integrarlas de forma estratégica según las necesidades y objetivos de la organización
+~%-33.33333%Adoptar todas las tecnologías disponibles sin evaluar su utilidad
+~%-33.33333%Considerarlas soluciones aisladas sin cambios organizativos
+~%-33.33333%Priorizar la compra de tecnología antes de identificar un problema
+}
+
+::DASP02_04_personalizacion::¿Qué combinación puede ayudar a personalizar servicios a partir de datos de clientes? {
+=Big Data e inteligencia artificial
+~%-33.33333%Blockchain y realidad virtual exclusivamente
+~%-33.33333%VPN y almacenamiento local sin análisis
+~%-33.33333%Cifrado y redes privadas sin procesar preferencias
+}
+
+::DASP02_05_eficiencia_THD::¿Cuál es un posible resultado de aplicar THD en operaciones empresariales? {
+=Mejorar la eficiencia y apoyar decisiones basadas en datos
+~%-33.33333%Eliminar la necesidad de medir resultados
+~%-33.33333%Garantizar que no existan costes ni riesgos
+~%-33.33333%Impedir la adaptación a cambios de mercado
+}
+
+::DASP02_06_retos_adopcion::¿Cuál es un reto frecuente al adoptar THD? {
+=Requerir inversión, infraestructura, habilidades y gestión de seguridad
+~%-33.33333%No poder aplicarse en sectores tradicionales
+~%-33.33333%Eliminar automáticamente la necesidad de formación
+~%-33.33333%Evitar cualquier cambio en la organización
+}
+
+::DASP02_07_blockchain::¿Qué propiedad se asocia a blockchain en la unidad? {
+=Registros distribuidos e inmutables que pueden aportar transparencia y trazabilidad
+~%-33.33333%Sensores físicos que monitorizan operaciones en tiempo real
+~%-33.33333%Recursos informáticos escalables disponibles por Internet
+~%-33.33333%Algoritmos que aprenden patrones para realizar predicciones
+}
+
+::DASP02_08_IoT::¿Qué permite principalmente el Internet de las Cosas (IoT)? {
+=Conectar objetos físicos para recopilar e intercambiar datos
+~%-33.33333%Crear registros financieros inmutables sin dispositivos conectados
+~%-33.33333%Agrupar datos en clústeres sin recoger información
+~%-33.33333%Proteger redes únicamente mediante autenticación multifactor
+}
+
+::DASP02_09_ML::¿Qué describe mejor el Machine Learning? {
+=Técnicas que permiten aprender patrones a partir de datos
+~%-33.33333%Un sistema de cableado para conectar dispositivos físicos
+~%-33.33333%Un registro distribuido que no utiliza datos
+~%-33.33333%Una modalidad de conexión cifrada a una red privada
+}
+
+::DASP02_10_BigData::¿Para qué se utiliza Big Data y el análisis de datos? {
+=Para procesar datos complejos y descubrir patrones, tendencias o correlaciones
+~%-33.33333%Para eliminar toda la información no estructurada de una empresa
+~%-33.33333%Para reemplazar las redes y los dispositivos de una organización
+~%-33.33333%Para ejecutar únicamente transacciones sin intermediarios
+}
+
+::DASP02_11_cloud::¿Qué ofrece principalmente Cloud Computing? {
+=Acceso por Internet a recursos informáticos que pueden escalarse según la demanda
+~%-33.33333%Control físico exclusivo de maquinaria industrial
+~%-33.33333%Un método para agrupar usuarios con preferencias similares
+~%-33.33333%Una garantía de que no habrá dependencia de proveedores
+}
+
+::DASP02_12_ciberseguridad::¿Cuál es el propósito general de la ciberseguridad? {
+=Proteger datos, dispositivos, redes y servicios frente a amenazas y accesos no autorizados
+~%-33.33333%Aumentar el volumen de datos recopilados sin aplicar controles
+~%-33.33333%Sustituir la evaluación de riesgos por automatización
+~%-33.33333%Hacer públicos los datos privados para mejorar la transparencia
+}
+
+::DASP02_13_tecnologias_complementarias::¿Qué relación entre tecnologías es correcta? {
+=IoT puede generar datos que Big Data e IA analizan, mientras la nube aporta capacidad de cómputo
+~%-33.33333%Blockchain crea sensores que eliminan la necesidad de proteger los datos
+~%-33.33333%Cloud Computing impide almacenar o procesar información
+~%-33.33333%Machine Learning reemplaza todos los dispositivos conectados
+}
+
+::DASP02_14_producto_inteligente::¿Cómo puede IoT mejorar un producto conectado? {
+=Recopilando datos de uso o del entorno para ofrecer funciones más inteligentes
+~%-33.33333%Impidiendo que el producto intercambie información con sistemas
+~%-33.33333%Eliminando toda necesidad de proteger la privacidad
+~%-33.33333%Utilizando solo registros financieros distribuidos
+}
+
+::DASP02_15_ciberseguridad_diseno::¿Qué significa incorporar ciberseguridad desde el diseño de un producto? {
+=Considerar la protección de datos, dispositivos y comunicaciones desde su desarrollo
+~%-33.33333%Añadir controles únicamente después de que ocurra un incidente
+~%-33.33333%Evitar que se evalúen riesgos durante la fase de diseño
+~%-33.33333%Dejar toda la seguridad a cargo de los usuarios finales
+}
+
+::DASP02_16_IA_medica::¿Cuál es un beneficio potencial de la IA en el diagnóstico médico? {
+=Analizar imágenes y ayudar a acelerar o mejorar la identificación de patologías
+~%-33.33333%Eliminar la necesidad de proteger los datos de pacientes
+~%-33.33333%Garantizar que todos los profesionales acepten automáticamente la tecnología
+~%-33.33333%Evitar la integración con los sistemas sanitarios existentes
+}
+
+::DASP02_17_DDoS_IoT::¿Qué describe un ataque DDoS que aprovecha dispositivos IoT comprometidos? {
+=Varios dispositivos generan tráfico para saturar e interrumpir un servicio
+~%-33.33333%Un sistema de sensores reduce el consumo de energía de una instalación
+~%-33.33333%Una cadena de bloques valida registros de forma distribuida
+~%-33.33333%Una herramienta agrupa clientes con características similares
+}
+
+::DASP02_18_sesgo_IA::¿Qué riesgo ético puede aparecer al utilizar IA en selección de personal? {
+=Que los algoritmos reproduzcan sesgos y afecten a la equidad de las decisiones
+~%-33.33333%Que los resultados sean siempre transparentes y neutrales
+~%-33.33333%Que desaparezca la necesidad de revisar los datos de entrenamiento
+~%-33.33333%Que los sistemas no puedan analizar información
+}
+
+::DASP02_19_cloud_dependencia::¿Qué desafío puede acompañar a la adopción de servicios en la nube? {
+=Dependencia del proveedor y posibles problemas de continuidad o control de datos
+~%-33.33333%Imposibilidad de ampliar recursos ante un aumento de demanda
+~%-33.33333%Necesidad obligatoria de comprar todos los servidores propios
+~%-33.33333%Falta total de acceso remoto a los servicios
+}
+
+::DASP02_20_sostenibilidad_THD::¿Cómo puede IoT contribuir a la sostenibilidad operativa? {
+=Monitorizando activos y energía para optimizar su uso y reducir desperdicios
+~%-33.33333%Aumentando deliberadamente el consumo energético de los equipos
+~%-33.33333%Impidiendo la supervisión en tiempo real
+~%-33.33333%Reemplazando el análisis de datos por estimaciones no verificadas
+}
+
+::DASP02_21_impacto_ambiental::¿Qué impacto ambiental negativo puede asociarse a la expansión de THD? {
+=Mayor consumo energético y generación de residuos electrónicos
+~%-33.33333%Desaparición completa de la demanda de recursos naturales
+~%-33.33333%Reducción inevitable de la cantidad de dispositivos fabricados
+~%-33.33333%Eliminación de la necesidad de centros de datos
+}
+
+::DASP02_22_brecha_digital::¿Qué puede ampliar la brecha digital? {
+=Desigualdad económica o geográfica en el acceso a conectividad y formación
+~%-33.33333%Garantizar acceso inclusivo a dispositivos y educación tecnológica
+~%-33.33333%Diseñar servicios accesibles para distintos grupos
+~%-33.33333%Reducir barreras de infraestructura en comunidades desconectadas
+}
+
+::DASP02_23_mercados_bigdata::¿Cómo pueden Big Data e IA ayudar a explorar nuevos mercados? {
+=Analizando datos para identificar tendencias, preferencias y nichos desatendidos
+~%-33.33333%Evitando recopilar información sobre el mercado
+~%-33.33333%Limitando los productos a una oferta idéntica para todos
+~%-33.33333%Sustituyendo el análisis por decisiones sin evidencia
+}
+
+::DASP02_24_informe_orden::¿Cuál es el primer paso de la metodología para elaborar un informe sobre THD? {
+=Definir los objetivos del informe
+~%-33.33333%Presentar visualizaciones de resultados
+~%-33.33333%Proponer recomendaciones sin analizar datos
+~%-33.33333%Recopilar datos antes de determinar qué se quiere evaluar
+}
+
+::DASP02_25_regresion_cluster::¿Qué describe correctamente el análisis de clúster? {
+=Agrupa elementos similares para facilitar la identificación de segmentos o patrones
+~%-33.33333%Predice una variable exclusivamente mediante una cadena de bloques
+~%-33.33333%Cifra datos para proteger una conexión remota
+~%-33.33333%Escala recursos informáticos según el uso
+}
+
+::DASP02_26_integracion_IT_OT::¿Qué mejora puede aportar la integración de IT y OT? {
+=Combinar datos empresariales y de procesos para mejorar visibilidad y mantenimiento predictivo
+~%-33.33333%Separar completamente el análisis de datos del funcionamiento operativo
+~%-33.33333%Eliminar los sensores de maquinaria y los sistemas informáticos
+~%-33.33333%Impedir la adaptación de la producción a la demanda
+}
+
+::DASP02_27_recomendaciones_informe::¿Qué debe hacerse después de analizar los datos y evaluar los resultados de una implantación THD? {
+=Proponer recomendaciones concretas basadas en los hallazgos
+~%-33.33333%Definir por primera vez el objetivo inicial sin considerar los resultados
+~%-33.33333%Descartar los datos y finalizar el informe sin conclusiones
+~%-33.33333%Presentar únicamente la tecnología utilizada, sin evaluar su impacto
+}
+
+::DASP02_28_zero_trust::¿Qué principio define el enfoque Zero Trust? {
+=No confiar automáticamente en usuarios o dispositivos y verificar cada acceso
+~%-33.33333%Confiar en cualquier dispositivo conectado a la red interna
+~%-33.33333%Permitir acceso total a todos los usuarios autenticados una vez
+~%-33.33333%Aplicar controles solo a conexiones desde el exterior
+}
+
+::DASP02_29_preparacion_estrategica::¿Qué medida ayuda a reducir la brecha de habilidades digitales? {
+=Ofrecer capacitación continua y oportunidades de desarrollo profesional
+~%-33.33333%Evitar que los empleados actualicen sus conocimientos
+~%-33.33333%Adquirir tecnologías sin formar a quienes las utilizarán
+~%-33.33333%Limitar la planificación tecnológica a la compra de equipos
+}
+
+::DASP02_30_stakeholders::¿Quiénes pueden ser stakeholders de una iniciativa de transformación digital? {
+=Empleados, clientes, proveedores, inversores, comunidad y administraciones
+~%-33.33333%Únicamente el equipo técnico que instala los sistemas
+~%-33.33333%Solo las empresas proveedoras de servicios en la nube
+~%-33.33333%Exclusivamente quienes ocupan cargos directivos
+}
